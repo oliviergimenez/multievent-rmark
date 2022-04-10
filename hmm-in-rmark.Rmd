@@ -9,6 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Inspiration
+
+http://www.phidot.org/forum/viewtopic.php?f=21&t=4195
+
+http://www.phidot.org/forum/viewtopic.php?f=34&t=4280&p=14193&hilit=hmm#p14197
+
 ## Setup
 
 Fit HMM model with 2 unobservable states
